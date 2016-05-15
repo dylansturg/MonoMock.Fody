@@ -19,7 +19,7 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="BasicFodyAddin" expanded="True" selected="True" />
+          <Node name="MonoMock.Fody" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
