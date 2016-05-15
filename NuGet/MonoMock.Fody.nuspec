@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata minClientVersion="2.8">
+    <id>MonoMock.Fody</id>
+    <version>$version$</version>
+    <title>MonoMock.Fody</title>
+    <authors>Dylan Sturgeon</authors>
+    <owners>Dylan Sturgeon</owners>
+    <developmentDependency>true</developmentDependency>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>http://github.com/dylansturg/MonoMock.Fody</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/Fody/BasicFodyAddin/master/Icons/package_icon.png</iconUrl>
+    <description>A Fody addin to generate classes for mocking for testing on platforms that do not support Reflection.Emit API.</description>
+    <summary />
+    <language>en-AU</language>
+    <tags>ILWeaving, Fody, Cecil</tags>
+    <dependencies>
+      <dependency id="Fody"/>
+    </dependencies>
+  </metadata>
+</package>

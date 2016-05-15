@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="NuGet/Nuget.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/WeaverTests.cs">
+    <Files>
+      <File FileName="BasicFodyAddin/ModuleWeaver.cs" Line="1" Column="1" />
+      <File FileName="Tests/WeaverTests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BasicFodyAddin" expanded="True" selected="True">
+            <Node name="AssemblyToProcess" expanded="True" />
+            <Node name="BasicFodyAddin" expanded="True" />
+            <Node name="Nuget" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+            <Node name="Tests" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="BasicFodyAddin" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Nuget PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
