@@ -64,7 +64,7 @@
     <Compile Include="WeaverTests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BasicFodyAddin\BasicFodyAddin.csproj">
+    <ProjectReference Include="..\MonoMock.Fody\MonoMock.Fody.csproj">
       <Project>{C3578A7B-09A6-4444-9383-0DEAFA4958BD}</Project>
       <Name>MonoMock.Fody</Name>
     </ProjectReference>
@@ -76,6 +76,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
